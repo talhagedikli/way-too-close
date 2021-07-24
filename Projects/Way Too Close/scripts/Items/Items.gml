@@ -7,6 +7,7 @@ function Item() constructor
 	color		= c_white;
 	alpha		= 1;
 	sound		= aPick;
+	count		= 1;
 	
 	static blend = function(_color, _alpha)
 	{

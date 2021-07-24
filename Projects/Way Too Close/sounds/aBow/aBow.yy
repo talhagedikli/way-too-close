@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "aBow.wav",
-  "duration": 1.649456,
+  "duration": 0.5,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

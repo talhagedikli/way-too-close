@@ -3,8 +3,8 @@ fadeOut     = false;
 blend		= new Vector2(image_blend, image_alpha);
 snapPosition	= function()
 {
-	var _tlx	= x - sprite_xoffset;
-	var _tly	= y - sprite_yoffset;
+	var _tlx	= bbox_left;
+	var _tly	= bbox_top;
 	var _xspc	= _tlx mod GRID_W;
 	var _yspc	= _tly mod GRID_H;
 	if (_xspc != 0 || _yspc != 0)

@@ -18,6 +18,9 @@ if (active)
 	keyShiftPressed		= keyboard_check_pressed(vk_shift);
 	keyQPressed			= keyboard_check_pressed(ord("Q"));
 	keyQ				= keyboard_check(ord("Q"));
+	keyIPressed			= keyboard_check_pressed(ord("I"));
+	keyI				= keyboard_check(ord("I"));
+	keyEPressed			= keyboard_check_pressed(ord("E"));
 
 	keyRightPressed		= RIGHT_PRESSED;
 	keyLeftPressed		= LEFT_PRESSED;
@@ -43,6 +46,10 @@ else
 	keyShiftPressed		= 0;
 	keyQPressed			= 0;
 	keyQ				= 0;
+	keyIPressed			= 0;
+	keyI				= 0;
+	keyEPressed			= 0;
+
 
 						  
 	keyRightPressed		= 0;

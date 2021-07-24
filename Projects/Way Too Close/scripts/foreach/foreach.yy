@@ -2,11 +2,11 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Misc",
-    "path": "folders/Scripts/Misc.yy",
+    "name": "Imported",
+    "path": "folders/Scripts/Misc/Imported.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Items",
+  "name": "foreach",
   "tags": [],
   "resourceType": "GMScript",
 }

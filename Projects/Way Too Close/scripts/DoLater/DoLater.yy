@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "DoLater",
-    "path": "folders/Scripts/Misc/Imported/DoLater.yy",
+    "name": "Imported",
+    "path": "folders/Scripts/Misc/Imported.yy",
   },
   "resourceVersion": "1.0",
   "name": "DoLater",
